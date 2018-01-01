@@ -1,7 +1,7 @@
 # beta-cribbage
 Reinforcement learning program for Cribbage!
 
-Python 3.4
+Python 3.4 - need to install at least Keras and h5py, maybe more.
 
 Start in playThrowingCards to give it a whirl.
 
