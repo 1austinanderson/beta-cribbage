@@ -1,6 +1,8 @@
 # beta-cribbage
 Reinforcement learning program for Cribbage!
 
+Python 3.4
+
 Start in playThrowingCards to give it a whirl.
 
 So far, the program manages to outperform me at choosing cards to throw to the crib.
